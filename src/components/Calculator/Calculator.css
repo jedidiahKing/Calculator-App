@@ -24,7 +24,7 @@ button {
 }
 
 button:hover {
-    color: red;
+    color: #FFE66D;
 }
 
 button .block {
@@ -68,7 +68,7 @@ button .control {
 .display::-webkit-scrollbar:horizontal,
 .history::-webkit-scrollbar-thumb,
 .history::-webkit-scrollbar:horizontal {
-    background-color: #FFE66D;
+    background-color: red;
 }
 
 hover::-webkit-scrollbar-thumb,
